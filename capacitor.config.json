@@ -1,0 +1,13 @@
+{
+  "appId": "com.lighthouse.kitchen",
+  "appName": "등대 키친",
+  "webDir": "www",
+  "ios": {
+    "contentInset": "never",
+    "scrollEnabled": false,
+    "backgroundColor": "#8fd3d6"
+  },
+  "android": {
+    "backgroundColor": "#8fd3d6"
+  }
+}
